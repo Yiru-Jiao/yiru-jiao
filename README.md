@@ -1,10 +1,8 @@
+## Hi there 👋 I'm a passionate researcher working in autonomous road safety, methodologically in a geospatial time series data-driven way. My research aims at safer traffic for all modes of road users by automated technologies, including but not limited to automated vehicles, data-empowered traffic monitoring, and data-driven infrastructure&policy improvement.
+I have a mixed education background in Operations Research and Managament Information Systems; as a result, I'm generally interested in collective patterns emerged in individual interactions, of which the curiousity also motivated me to pursue a PhD degree. I'm currently in the last year and approaching the end of my PhD journey in TU Delft. My doctoral research is about
+1) measuring two-dimensional spacing between road users [code](https://github.com/Yiru-Jiao/DriverSpaceInference) [pdf](https://github.com/Yiru-Jiao/DocumentedKnowledgeSharing/blob/main/First-authoredPublications/2023-08%20Inferring%20vehicle%20spacing%20in%20urban%20traffic%20from%20trajectory%20data.pdf)
+All papers are openly accessible thanks to TU Delft Library. All relevant code repos are open-sourced here. My digital CV is avaiable at yiru-jiao.github.io
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=DeM7ng8AAAAJ&hl=en)
-
-## Hi there 👋 I'm a passionate researcher working in traffic engineering and road safety, methodologically in a geospatial time series data-driven way.
-I'm interested in collective patterns emerged in individual interactions. My PhD research is about 
-1) vehicle interactions (safe and unsafe) among human drivers as well as between human drivers and automated vehicles;
-2) enhance road safety, promote autonomous driving, and gain more understanding of interactive human behaviour.
-All papers are openly accessible thanks to TU Delft Library. All relevant code repos are open-sourced at https://github.com/Yiru-Jiao
 
 <div align="center">
 
