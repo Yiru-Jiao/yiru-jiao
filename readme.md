@@ -7,7 +7,7 @@ I have a mixed education background in Operations Research and Managament Inform
 - are proposing (under single-blind review) a consistent and generalisable approach to traffic conflict detection [\[code\]](https://github.com/Yiru-Jiao/UnifiedConflictDetection) [\[pdf\]](https://arxiv.org/pdf/2407.10959),
 - are proposing (under double-blind review) structure-preserving contrastive learning for geospatial time serires to learn representations that facilitate downstream tasks.
 
-My digital CV is avaiable at https://yiru-jiao.github.io -- which is very bibliometrically formed for HR's or quantitative eyes.
+My digital CV is avaiable at https://yiru-jiao.github.io -- which is very bibliometrically formed for HR's or quantitative eyes. But please, if in any way possible, use a qualitative view to look at me and my research. I believe all researchers in academia would ask the same. We work for a better world, not for producing publications.
 
 <div align="center">
 
