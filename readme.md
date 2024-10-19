@@ -9,10 +9,7 @@ I have a mixed education background in Operations Research and Managament Inform
 - are proposing (under review) a consistent and generalisable approach to traffic conflict detection [\[code\]](https://github.com/Yiru-Jiao/UnifiedConflictDetection) [\[pdf\]](https://arxiv.org/pdf/2407.10959),
 - are proposing (under review) structure-preserving contrastive learning for geospatial time serires to learn representations that facilitate downstream tasks.
 
-For an overview of my publications, please visit [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=DeM7ng8AAAAJ&hl=en)
-
 <div align="center">
-
 ![](https://raw.githubusercontent.com/yiru-jiao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yiru-jiao/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/yiru-jiao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
