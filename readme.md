@@ -5,7 +5,7 @@ I have a mixed education background in Operations Research and Management Inform
 - measured two-dimensional spacing between road users [\[code\]](https://github.com/Yiru-Jiao/DriverSpaceInference) [\[pdf\]](https://github.com/Yiru-Jiao/DocumentedKnowledgeSharing/blob/main/First-authoredPublications/2023-08%20Inferring%20vehicle%20spacing%20in%20urban%20traffic%20from%20trajectory%20data.pdf),
 - assessed bias-induced explanations for shorter time gaps when human drivers follow automated vehicles [\[code\]](https://github.com/Yiru-Jiao/Explaining-headway-reduction-of-HVs-following-AVs) [\[pdf\]](https://github.com/Yiru-Jiao/DocumentedKnowledgeSharing/blob/main/First-authoredPublications/2024-06%20Beyond%20behavioural%20change%20Investigating%20alternative%20explanations.pdf),
 - proposed the first consistent and generalisable approach to traffic conflict detection [\[code\]](https://github.com/Yiru-Jiao/UnifiedConflictDetection) [\[pdf\]](https://arxiv.org/pdf/2407.10959),
-- are proposing (under double-blind review) structure-preserving contrastive learning for geospatial time series to learn representations that facilitate downstream tasks.
+- are proposing (under single-blind review) structure-preserving contrastive learning for geospatial time series to learn representations that facilitate downstream tasks [\[code\]](https://github.com/Yiru-Jiao/spclt).
 
 I enjoy thinking, reading, and writing (in both machine and human language), although unfavourably my mind gets overloaded sometimes. I actively post work-relevant updates on [LinkedIn](https://www.linkedin.com/in/yiru-%E8%89%BA%E8%8C%B9-jiao-%E7%84%A6-697620ba/) and other thoughts on [Mastodon](https://datasci.social/@studyinger). 
 
