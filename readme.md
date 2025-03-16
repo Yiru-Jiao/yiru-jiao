@@ -8,16 +8,16 @@ I have a mixed education background in Operations Research and Management Inform
 - are proposing (under single-blind review) structure-preserving contrastive learning for geospatial time series to learn representations that facilitate downstream tasks [\[code\]](https://github.com/Yiru-Jiao/spclt)[\[pdf\]](https://arxiv.org/abs/2502.06380),
 - are developing an adaptive and scalable framework to quantify the safety of traffic interactions without pre-assumptions of accidents.
 
+I enjoy thinking, reading, and writing (in both machine and human language), although unfavourably my mind gets overloaded sometimes. I actively post work-relevant updates on [LinkedIn](https://www.linkedin.com/in/yiru-%E8%89%BA%E8%8C%B9-jiao-%E7%84%A6-697620ba/) and other thoughts on [Mastodon](https://datasci.social/@studyinger). 
+
+My digital CV is avaiable at https://yiru-jiao.github.io/cv -- which is very bibliometrically formed for HR's or quantitative eyes. But please, if in any way possible, use a qualitative view to look at me and my research. I believe all researchers in academia would ask the same. We work for a better world, not for producing publications.
+
 Other interesting repositories I have made public include:
 - [Documented Knowledge Sharing](https://github.com/Yiru-Jiao/DocumentedKnowledgeSharing) makes open access to the documented knowledge created or summarised by me and my collaborators;
 - [SSMsOnPlane](https://github.com/Yiru-Jiao/SSMsOnPlane) shares vectorised algorithms to calculate various surrogate safety measures (SSMs), or in another way called, surrogate measures of safety (SMoS) for pairs of road users on an abstracted plane of road, i.e., in a two-dimensional space;
 - [Two-Dimensional-Time-To-Collision](https://github.com/Yiru-Jiao/Two-Dimensional-Time-To-Collision) allows for fast computation of two-dimensional adaption of the longitudinal SSMs including TTC, DRAC, and MTTC;
 - [Reconstruct100CarNDSData](https://github.com/Yiru-Jiao/Reconstruct100CarNDSData) reconstructs bird's eye view trajectories of vehicles involved in crashes and near-crashes from 100-Car Naturalistic Driving Study (NDS) radar data;
 - [MakingRandomBingoCards](https://github.com/Yiru-Jiao/MakingRandomBingoCards) generates randomised bingo cards (for party games) with custom cells with LaTeX and Python.
-
-I enjoy thinking, reading, and writing (in both machine and human language), although unfavourably my mind gets overloaded sometimes. I actively post work-relevant updates on [LinkedIn](https://www.linkedin.com/in/yiru-%E8%89%BA%E8%8C%B9-jiao-%E7%84%A6-697620ba/) and other thoughts on [Mastodon](https://datasci.social/@studyinger). 
-
-My digital CV is avaiable at https://yiru-jiao.github.io/cv -- which is very bibliometrically formed for HR's or quantitative eyes. But please, if in any way possible, use a qualitative view to look at me and my research. I believe all researchers in academia would ask the same. We work for a better world, not for producing publications.
 
 <div align="center">
 
