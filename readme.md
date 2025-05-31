@@ -16,6 +16,7 @@ Other interesting repositories I have made public include:
 - [Documented Knowledge Sharing](https://github.com/Yiru-Jiao/DocumentedKnowledgeSharing) makes open access to the documented knowledge created or summarised by me and my collaborators;
 - [SSMsOnPlane](https://github.com/Yiru-Jiao/SSMsOnPlane) shares vectorised algorithms to calculate various surrogate safety measures (SSMs), or in another way called, surrogate measures of safety (SMoS) for pairs of road users on an abstracted plane of road, i.e., in a two-dimensional space;
 - [Two-Dimensional-Time-To-Collision](https://github.com/Yiru-Jiao/Two-Dimensional-Time-To-Collision) allows for fast computation of two-dimensional adaption of the longitudinal SSMs including TTC, DRAC, and MTTC;
+- [BirdsEyeTrajectoryReconstructionSHRP2NDS](https://github.com/Yiru-Jiao/BirdsEyeTrajectoryReconstructionSHRP2NDS) provides information and guidelines to use the reconstructed trajectories of naturalistic crashes and near-crashes in the SHRP2 NDS.
 - [Reconstruct100CarNDSData](https://github.com/Yiru-Jiao/Reconstruct100CarNDSData) reconstructs bird's eye view trajectories of vehicles involved in crashes and near-crashes from 100-Car Naturalistic Driving Study (NDS) radar data;
 - [MakingRandomBingoCards](https://github.com/Yiru-Jiao/MakingRandomBingoCards) generates randomised bingo cards (for party games) with custom cells with LaTeX and Python.
 
